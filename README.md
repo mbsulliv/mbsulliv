@@ -11,9 +11,8 @@
 
 ### Funding Goals for 2020
 
-- [ ] Setup Website
-- [ ] Document software activities using LBRY
-- [ ] Build support on Patreon
+- Document software activities using LBRY
+- Build support on [Patreon](https://www.patreon.com/mbsulliv)
 
 ### About Me
 
