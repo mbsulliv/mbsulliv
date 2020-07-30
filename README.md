@@ -9,10 +9,10 @@
   - [ ] Windows
 - [ ] Write a C/C++ &rarr; Go source converter to make it easier to adapt existing code for use
 
-### Funding Goals for 2020
+### Progress
 
-- Document software activities using LBRY
-- Build support on [Patreon](https://www.patreon.com/mbsulliv)
+- LBRY (soon)
+- Support this effort on [Patreon](https://www.patreon.com/mbsulliv)
 
 ### About Me
 
